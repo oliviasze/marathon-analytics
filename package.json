@@ -1,0 +1,13 @@
+{
+  "name": "marathon-analytics-api",
+  "version": "0.1.0",
+  "description": "Phase 4: Express API layer over the marathon-analytics Python pipeline.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
